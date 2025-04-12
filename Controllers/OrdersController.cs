@@ -79,7 +79,7 @@ namespace EquipmentLoanApi.Controllers
 
             // Pesquisa por CPF
             var orders = await _context.Orders
-                .Where(o => o.Cpf == request.Cpf)
+                .Where(o => o.Cpf == request.Cpf && o.Status == true)
                 .Include(o => o.User)
                 .Include(o => o.Product)
                 .ToListAsync();                

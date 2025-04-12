@@ -42,3 +42,4 @@
 /home/gwdcks/VSCode Projects/PIM_V/EquipmentLoanApi/obj/Debug/net8.0/EquipmentLoanApi.pdb
 /home/gwdcks/VSCode Projects/PIM_V/EquipmentLoanApi/obj/Debug/net8.0/EquipmentLoanApi.genruntimeconfig.cache
 /home/gwdcks/VSCode Projects/PIM_V/EquipmentLoanApi/obj/Debug/net8.0/ref/EquipmentLoanApi.dll
+/home/gwdcks/VSCode Projects/PIM_V/EquipmentLoanApi/obj/Debug/net8.0/EquipmentLoanApi.sourcelink.json
